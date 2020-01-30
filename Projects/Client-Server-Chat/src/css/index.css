@@ -1,0 +1,71 @@
+body {
+  background-color: rgba(73, 101, 224, 0.733);
+  }
+
+h2 {
+  text-align: center;
+    background-color: rgb(91, 148, 131); 
+  }
+  .userInput { 
+    margin-bottom: 1rem;
+  }
+.col-chat{
+  float: left;
+  width: 50%;
+}
+.col-canvas{
+  float: right;
+  width: 50%
+  
+}
+  .chatBox {
+    background-color: rgb(91, 148, 131); 
+    height: 350px;
+    width: 500px;
+    border: 1px solid #e61414;
+    margin-bottom: 10px;
+    
+    padding: 1rem;
+    overflow-y: scroll;
+  }
+
+  .canvas{
+    background-color:antiquewhite;
+    height: 350px;
+    width: 500px;
+    border: 1px solid #0c0c0c;
+    margin-bottom:  10px;
+    padding: 1rem;
+    
+  }
+  
+
+  .button-Addon{
+    
+    background-color: rgb(50, 115, 220); 
+    color: #0c0c0c;
+  }
+  
+  #messages {
+    font-style: italic;
+    padding: none;
+
+  }
+  
+  .displayTxt {
+    margin-bottom: 1rem;
+  }
+  
+  .dPlayerName{
+    font-size: 1.30em;
+   
+    color: #580202;
+  }
+  
+  .newPlayer {
+    font-size: 1.00em;
+    font-weight: bolder;
+    color: #580202;
+  }
+
+
